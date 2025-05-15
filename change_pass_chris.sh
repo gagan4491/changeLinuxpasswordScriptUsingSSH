@@ -1,7 +1,7 @@
 #!/bin/bash
 
 IP_LIST='ip.txt'
-NEW_PASSWORD='sonic_root'
+NEW_PASSWORD='sonic1234'
 SSH_USER='root'
 
 while read -r IP; do
